@@ -1,4 +1,4 @@
-# iOS Calculator in pure Javascript
+# iOS Calculator in Pure Javascript
 
 This is a calculator application built with HTML, CSS, and JavaScript.
 
